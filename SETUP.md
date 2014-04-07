@@ -8,11 +8,9 @@
 set -e
 
 apt-get update
-apt-get install git -y
-apt-get install unzip -y
+apt-get install git unzip -y
 sudo apt-get install python-setuptools python-dev build-essential -y
-apt-get install libxml2-dev -y 
-apt-get install libxslt1-dev -y
+apt-get install libxml2-dev libxslt1-dev -y 
 easy_install -U setuptools
 apt-get install python-pip
 pip install lxml
