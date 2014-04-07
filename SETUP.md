@@ -8,11 +8,7 @@
 set -e
 
 apt-get update
-apt-get install git unzip -y
-sudo apt-get install python-setuptools python-dev build-essential -y
-apt-get install libxml2-dev libxslt1-dev -y 
+sudo apt-get install git unzip python-setuptools python-dev build-essential libxml2-dev libxslt1-dev python-pip -y
 easy_install -U setuptools
-apt-get install python-pip
-pip install lxml
-pip install requests
+pip install lxml requests
 ```
