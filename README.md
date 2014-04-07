@@ -10,7 +10,8 @@ Access the data now.
 ### Setting up your local environment
 
 1. Follow the instructions inside `SETUP.md`
-2. Follow the instructions inside `scripts/README.md`
+2. Clone this repository to your computer or server 
+3. Follow the instructions inside `scripts/README.md`
 
 
 ### Contributing to the development 
