@@ -9,7 +9,9 @@ Access the data now.
 
 ### Setting up your local environment
 
-Read more about setting up your local environment. 
+1. Follow the instructions inside `SETUP.md`
+2. Follow the instructions inside `scripts/README.md`
+
 
 ### Contributing to the development 
 
